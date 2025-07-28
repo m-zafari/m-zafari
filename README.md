@@ -7,7 +7,7 @@ _Kharazmi University_
 
 ## 👨‍💻 About Me
 
-I'm a recent B.Sc. graduate in Computer Science with a strong focus on **machine learning** and its applications. My academic journey helped me build a solid foundation in programming, algorithms, and AI concepts. I enjoy learning new technologies, building practical projects, and exploring innovative solutions to real-world problems.
+I'm a B.Sc. graduate in Computer Science with a strong focus on **machine learning** and its applications. My academic journey helped me build a solid foundation in programming, algorithms, and AI concepts. I enjoy learning new technologies, building practical projects, and exploring innovative solutions to real-world problems.
 
 Excited to pursue graduate studies and further explore the world of artificial intelligence.
 
