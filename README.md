@@ -1,6 +1,6 @@
 # Hi there, I'm Mohammad Zafari! 👋
 
-🎓 **Recent Computer Science Graduate**  
+🎓 **Computer Science Graduate**  
 _Kharazmi University_
 
 ---
