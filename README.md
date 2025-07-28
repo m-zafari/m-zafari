@@ -52,7 +52,7 @@ Simulated candy store operations using SimPy — modeled customer arrivals, queu
 
 - [GitHub](https://github.com/m-zafari)
 - [Personal Website](https://m-zafari.github.io/)
-- [📧 Email](mhdzafari80@gmail.com
+- [📧 Email](mhdzafari80@gmail.com)
 
 ---
 
